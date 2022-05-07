@@ -1,4 +1,4 @@
-# Image-Uploader
+# File-Uploader
 
 / Technologies
 * Framework : Express
@@ -12,4 +12,4 @@
 * express
 * express-fileupload
 * cors
-* Nodemon
+* nodemon
